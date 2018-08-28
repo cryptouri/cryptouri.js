@@ -1,4 +1,4 @@
-# cryptouri.js [![Apache 2.0 licensed][license-shield]][license-link]  [![Build Status][build-shield]][build-link] [![Gitter Chat][gitter-image]][gitter-link]
+# cryptouri.js [![Latest Version][npm-shield]][npm-link] [![Apache 2.0 licensed][license-shield]][license-link]  [![Build Status][build-shield]][build-link] [![Gitter Chat][gitter-image]][gitter-link]
 
 [npm-shield]: https://img.shields.io/npm/v/cryptouri.svg
 [npm-link]: https://www.npmjs.com/package/cryptouri
