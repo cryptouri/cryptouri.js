@@ -1,0 +1,46 @@
+{
+  "name": "cryptouri",
+  "version": "0.0.0",
+  "description": "URN-like namespace for cryptographic objects (keys, signatures, digests) with Bech32 encoding/checksums",
+  "homepage": "https://github.com/cryptouri/cryptouri-js",
+  "main": "release/cryptouri.js",
+  "types": "src/cryptouri.ts",
+  "author": "Tony Arcieri",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptouri/cryptouri-js.git"
+  },
+  "keywords": [
+    "bech32",
+    "cryptography",
+    "keys",
+    "security",
+    "uri"
+  ],
+  "bugs": {
+    "url": "https://github.com/cryptouri/cryptouri-js/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --require ts-node/register test/**/*.spec.ts"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1",
+    "@types/mocha": "^5.2",
+    "@types/node": "^10.9",
+    "async-file": "^2.0",
+    "chai": "^4.1",
+    "gulp": "^4.0.0",
+    "gulp-sourcemaps": "^2.6",
+    "gulp-typescript": "5.0.0-alpha.3",
+    "mocha": "^5.2",
+    "mocha-typescript": "^1.1",
+    "tjson-js": "^0.1",
+    "ts-node": "^7.0",
+    "typescript": "^3.0"
+  },
+  "dependencies": {}
+}
