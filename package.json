@@ -35,7 +35,7 @@
     "chai": "^4.1",
     "gulp": "^4.0.0",
     "gulp-sourcemaps": "^2.6",
-    "gulp-typescript": "5.0.0-alpha.3",
+    "gulp-typescript": "5.0.1",
     "mocha": "^6.2",
     "mocha-typescript": "^1.1",
     "tjson-js": "^0.1",
