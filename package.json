@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/chai": "^4.1",
     "@types/mocha": "^5.2",
-    "@types/node": "^13",
+    "@types/node": "^16",
     "async-file": "^2.0",
     "chai": "^4.2",
     "gulp": "^4.0",
